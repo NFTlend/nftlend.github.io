@@ -39,6 +39,12 @@ section {
   z-index: 0;
 }
 
+.logo-image{
+  position: relative;
+  margin: 10px 15px 15px 10px;
+  max-width: 200px;
+}
+
 .form-horizontal .form-group {
   margin-right: 0;
   margin-left: 0;
